@@ -1,4 +1,4 @@
-const gpa =190;
+const gpa =180;
 //pass_mark=50;
 
 const exp= 70;
